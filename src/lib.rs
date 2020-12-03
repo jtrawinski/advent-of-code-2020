@@ -1,4 +1,6 @@
 extern crate aoc_runner;
+extern crate serde;
+extern crate serde_scan;
 
 #[macro_use]
 extern crate aoc_runner_derive;
